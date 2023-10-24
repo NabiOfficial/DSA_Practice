@@ -2,3 +2,6 @@
 
 Name: Harsheet Sharma
 [github](www.github.com/ab1123)
+
+Name: Prajwal Gandhi
+[GitHub](www.github.com/gandhiprajwal)
